@@ -83,7 +83,7 @@ namespace text
             string text = File.ReadAllText(file.FullName);
             string temp = ".\n";
             string[] arr = text.Split(temp.ToCharArray());
-            int maxLength = arr[0].Length, sumLength=0;
+            int maxLength = arr[0].Length, sumLength = arr[0].Length;
             for (int i = 1; i < arr.Length; i++)
             {
                 sumLength += arr[i].Length;
