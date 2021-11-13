@@ -42,6 +42,7 @@ nuber of the words: 139
 The number of unique words: 74
 
 the average length sentence: 29
+
 the max length sentence: 68
 
 
