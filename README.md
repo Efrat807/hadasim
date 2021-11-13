@@ -46,11 +46,16 @@ the average length sentence: 29
 the max length sentence: 68
 
 
-the max length sentence without 'k'
+the max length sentence without 'k':
+
 starts to lift now help is on its way Hopelessness is starting to fade away I lift my eyes to heaven where my help is from The light now from the flames shines for everyone Chorus Bridge The light is piercing through the
 
 the colors and their amount:
+
 red: 1
+
 yellow: 2
+
 antiquewhite: 1
+
 white: 1
